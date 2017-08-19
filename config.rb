@@ -13,6 +13,7 @@ page '/*.txt', layout: false
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
+activate :livereload
 
 # With alternative layout
 # page "/path/to/file.html", layout: :otherlayout
