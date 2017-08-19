@@ -1,0 +1,23 @@
+TODO:
+- [ ] put the site online
+- [ ] setup google analytics
+- [ ] find a theme
+- [ ] setup mailchimp with form
+- [ ] make the landing page
+- [ ] create instagramm account
+- [ ] write the first blog post
+- [ ] write the review
+- [ ] create a review template
+- [ ] add twitter account on landing page
+- [ ] add disquss
+
+LANDING PAGE:
+- [ ] write the goal and the target of the website
+- [ ] write a bio ?
+
+
+DONE:
+19/08/2017
+- [x] create a middleman project
+- [x] host it on github
+- [x] create twitter account: @sharpeningtools
